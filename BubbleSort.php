@@ -67,4 +67,4 @@ echo "The median is ";
 $testArray->printMedian();
 echo " and the largest is ";
 $testArray->printLargest();
-?>
+
